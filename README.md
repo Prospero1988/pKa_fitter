@@ -8,7 +8,7 @@ This repository provides an easy-to-use graphical user interface (GUI) for fitti
 ### **About the Henderson-Hasselbalch Curve**
 The Henderson-Hasselbalch equation is a key tool in chemistry and biochemistry for understanding acid-base equilibria. It is expressed as:
 
-Shift = Shift_min + (Shift_max - Shift_min) / (1 + 10^(pKa - pH))
+![Henderson-Hasselbalch Equation](equlibrium.png)
 
 This equation relates the pH of a solution to the protonation state of an ionizable group, often measured as a chemical shift in **NMR spectroscopy**. This GUI allows users to:
 - Fit a Henderson-Hasselbalch curve to experimental data.
