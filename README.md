@@ -3,6 +3,10 @@
 
 This repository provides an easy-to-use graphical user interface (GUI) for fitting a **Henderson-Hasselbalch curve** to experimental data and calculating **pKa** values. The GUI is implemented in Python using `tkinter` and generates high-quality interactive plots with `Plotly`. The repository contains the main script (`pKa_GUI_finall_2.pyw`) and a sample input file (`input.csv`) to demonstrate functionality.
 
+![GUI](draw.png)
+
+![Results](result.png)
+
 ---
 
 ### **About the Henderson-Hasselbalch Curve**
